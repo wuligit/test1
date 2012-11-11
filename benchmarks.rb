@@ -6,7 +6,7 @@ require 'memcache'
 require 'pp'
 
 #test modify
-#test add line
+#test add li
 #require 'grit'
 require 'lib/grit'
 
